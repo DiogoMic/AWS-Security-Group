@@ -1,3 +1,4 @@
 AWS Security Group
 
-
+A security group is use to filter inbound and outbound trafffic in instance level.
+you filter traffic in a security by allowing and also blocking ports and IP addresses.
